@@ -10,3 +10,24 @@ String[] text = writeData.Trim()
                          .Replace(",", "")
                          .Split(" ");
 
+
+static String[] selectElementsLess4Signs ( String[] argCutArray) {
+
+int count = 0;
+for (int i = 0; i < argCutArray.GetLength(0); i++)
+{
+  if (argCutArray[i].Length < 4) count++; 
+}
+
+String[] cutedArray = new String[count];
+
+for (int i = 0, j = 0; i < argCutArray.Length; i++)
+{
+  if (argCutArray[i].Length < 4) {
+    cutedArray[j] = argCutArray[i];
+    j++;
+  }
+}
+return cutedArray;
+}
+
