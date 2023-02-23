@@ -5,5 +5,8 @@
 System.Console.WriteLine("Введите данные для массива через пробел");
 String writeData = Console.ReadLine();
 
-
+String[] text = writeData.Trim()
+                         .Replace(".","")
+                         .Replace(",", "")
+                         .Split(" ");
 
