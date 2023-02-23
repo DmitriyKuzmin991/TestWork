@@ -1,0 +1,15 @@
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\bin\Debug\net7.0\TestWorkOne.exe
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\bin\Debug\net7.0\TestWorkOne.deps.json
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\bin\Debug\net7.0\TestWorkOne.runtimeconfig.json
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\bin\Debug\net7.0\TestWorkOne.dll
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\bin\Debug\net7.0\TestWorkOne.pdb
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\obj\Debug\net7.0\TestWorkOne.csproj.AssemblyReference.cache
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\obj\Debug\net7.0\TestWorkOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\obj\Debug\net7.0\TestWorkOne.AssemblyInfoInputs.cache
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\obj\Debug\net7.0\TestWorkOne.AssemblyInfo.cs
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\obj\Debug\net7.0\TestWorkOne.csproj.CoreCompileInputs.cache
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\obj\Debug\net7.0\TestWorkOne.dll
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\obj\Debug\net7.0\refint\TestWorkOne.dll
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\obj\Debug\net7.0\TestWorkOne.pdb
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\obj\Debug\net7.0\TestWorkOne.genruntimeconfig.cache
+C:\Users\DmitriyK\Documents\GitProject\TestWorkOne\obj\Debug\net7.0\ref\TestWorkOne.dll
