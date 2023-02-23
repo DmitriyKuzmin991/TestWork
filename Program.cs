@@ -10,6 +10,9 @@ String[] text = writeData.Trim()
                          .Replace(",", "")
                          .Split(" ");
 
+System.Console.Write("Элементы массива длинной меньше 4-х символов ");
+String[] newText = selectElementsLess4Signs(text);
+Console.WriteLine(String.Join(" ", newText));
 
 static String[] selectElementsLess4Signs ( String[] argCutArray) {
 
